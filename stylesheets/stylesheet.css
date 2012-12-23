@@ -234,6 +234,10 @@ hr {
   background: url('../images/bg_hr.png') repeat-x center;
 }
 
+.noDots{
+  background: none;
+}
+
 table {
   border: 1px solid #373737;
   margin-bottom: 20px;
@@ -258,7 +262,6 @@ form {
 }
 
 img {
-  width: 100%;
   max-width: 100%;
 }
 
